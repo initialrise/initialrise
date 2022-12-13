@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/initialrise/initialrise/main/assets/greeting.gif" height="35x" width="35px"> I am Rabindra</h1>
 <img align="right" alt="gif" src="https://raw.githubusercontent.com/initialrise/initialrise/main/assets/glass.gif" height="150px">
 
-- 🌱 I'm a CS undergrad from the country of the Himalayas.
+- 🌱 I'm a CS undergrad from the country of the Himalayas. <img src="https://media.tenor.com/9Rt9JC45-54AAAAi/nepal-nepali.gif" height="20px">
 
 - ⚡ Linux Enjoyer
 
