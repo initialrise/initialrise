@@ -1,12 +1,9 @@
-<div align="center">
-<img src="assets/greetings.gif" align="center" style="width: 100%" />
-</div>
+<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35x" width="35px"> I am Rabindra</h1>
+<img align="right" alt="gif" src="https://media2.giphy.com/media/AYy9YYXHmsGek/giphy.gif" height="200px">
 
-### <div align="center">I'm Rabindra, a CS undergraduate from the land of the Himalayas.</div>
+- 🌱 I'm learning web development.
 
-- 🔭 I’m currently learning web development.
-
-- 🌱 I’m a linux enthusiast.
+- ⚡ Linux Enjoyer
 
 <br/>
 
@@ -73,7 +70,7 @@
 
 <br/>
 
-## Recent Blog Posts
+<!--## Recent Blog Posts -->
 
 <br/>
 
