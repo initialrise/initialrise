@@ -72,7 +72,7 @@
 </p>
 <p align="center">
 <a href="http://www.github.com/initialrise#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=initialrise&show_icons=true&hide=&count_private=true&theme=default&hide_border=true&show_icons=true#gh-light-mode-only" alt="initialrise's GitHub stats" /></a>
-<a href="http://www.github.com/initialrise#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=initialrise&hide_border=true#gh-dark-mode-only" /></a><a href="http://www.github.com/initialrise">
+<a href="http://www.github.com/initialrise#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=initialrise&hide_border=true#gh-dark-mode-only" /></a><a href="http://www.github.com/initialrise">
 <br/>
 </p>
 
