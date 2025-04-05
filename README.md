@@ -3,7 +3,9 @@
 
 - 🌱 I'm a CS grad from the country of the Himalayas. <img src="https://media.tenor.com/9Rt9JC45-54AAAAi/nepal-nepali.gif" height="20px">
 
-- ⚡ Technology Enjoyer
+- ⚡ Technology Enjoyer 
+
+<p>This is a new change done by me.</p>
 
 <br/>
 <br/>
